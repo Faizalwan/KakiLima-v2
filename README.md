@@ -1,2 +1,2 @@
 # KakiLima-v2
-Aplikasi pemesanan tiket dengan Java, XML dan Firebase
+Aplikasi pemesanan makanan Kaki Lima dengan Java, XML dan Firebase
